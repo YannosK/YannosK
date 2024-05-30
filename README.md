@@ -1,10 +1,11 @@
 ## Hello! My name is Yannos Koutoulas. Welcome to my GitHub page!
 
 - Computing Systems Engineer, currently doing my [MSc in Control and Computing in Kapodistrian University of Athens](https://en.phys.uoa.gr/postgraduate_studies/interdepartmental_program/)
-- Job Experience in electronics of audiovisual systems and automations in consumer and enterpise applications (home automations and enterprise automations)
-- Looking to collaborate on emdedded electronics projects, that involve microcontrollers (STM32, ESP32, Arduino, Pico), FPGAs (Xilinx Zynq family), FreeRTOS and Embedded Linux.
+- Job Experience in electronics of audiovisual systems and automations in consumer and enterprise applications (home automations and enterprise automations)
+- Looking to collaborate on embedded electronics projects, that involve microcontrollers (STM32, ESP32, Arduino, Pico), FPGAs (Xilinx Zynq family), FreeRTOS and Embedded Linux.
 
 My public repositories are my most complete projects. Some have been deployed in my previous jobs, others are very interesting projects I took on during my MSc courses. Feel free to clone them or star them!
+
 
 <!--
 **YannosK/YannosK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
