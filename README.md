@@ -1,4 +1,6 @@
-## Hi there 👋
+## I am Yannos Koutoulas, welcome to my GitHub page!
+
+- Computing Systems Engineer, currently doing my [MSc in Control and Computing in Kapodistrian University of Athens](https://en.phys.uoa.gr/postgraduate_studies/interdepartmental_program/)
 
 <!--
 **YannosK/YannosK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
